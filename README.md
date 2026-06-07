@@ -180,6 +180,7 @@ Documentation and project presentation
 
 Arpita Gupta
 B.Tech Computer Science & Engineering
+
 Amrita Vishwa Vidyapeetham, Amaravati
 
 GitHub:https://github.com/arpitagupta25
@@ -189,7 +190,8 @@ GitHub:https://github.com/arpitagupta25
 Special thanks to:
 
 Chakravyuhah Club, Amrita Vishwa Vidyapeetham, Amaravati
+
 Campus Connect Competition Organizers
-Open-source contributors and developers
+
 The AI tools that accelerated development and learning
 o college smoother, one fresher at a time." 🎓✨
