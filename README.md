@@ -1,8 +1,8 @@
-🎓 Freshers Companion
+🎓** Freshers Companion**
 
 A comprehensive guide for freshers at Amrita Vishwa Vidyapeetham, Amaravati — helping students navigate academics, campus life, clubs, resources, and opportunities through a single, easy-to-use platform.
 
-📌 About the Project
+📌** About the Project**
 
 Freshers Companion is a student-centric web platform designed to assist incoming students of Amrita Vishwa Vidyapeetham, Amaravati in their transition to university life.
 
@@ -12,19 +12,19 @@ The platform brings together academic guidance, campus resources, hostel informa
 
 Whether you're preparing for your first day on campus or looking for resources throughout your first year, Freshers Companion serves as a reliable companion for every fresher.
 
-✨ Key Features
+✨** Key Features**
 
-📚 Academic Life
+📚 **Academic Life**
 Academic structure and curriculum overview
 Study strategies and learning resources
 Essential academic guidelines and tips
 
-🎭 Clubs & Extracurricular Activities
+🎭** Clubs & Extracurricular Activities**
 Information about technical, cultural, and sports clubs
 Opportunities for student engagement
 Campus community involvement
 
-🏫 Campus & Hostel Life
+🏫 **Campus & Hostel Life**
 Hostel information and facilities
 Campus infrastructure overview
 Daily life essentials and guidelines
